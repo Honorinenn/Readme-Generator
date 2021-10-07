@@ -18,6 +18,10 @@ To generate a readme for your own project, you can clone the repository to your 
 ## Usage
 To use this application you have to run the command node .\index.js at the terminal of your project and then respond to the prompt questions. The application would produce a markdown and a table of contents for the readme generated. This will be relative to the responses to the inquirer prompts. 
 
+
+![gifread](https://user-images.githubusercontent.com/87605893/136440352-5c4695e8-db9f-41d0-8902-5b48ec9d7a2f.gif)
+
+
 ## License
 MIT License
 
