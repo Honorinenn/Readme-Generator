@@ -1,0 +1,24 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "Read me generator app",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.1.5",
+    "node": "^16.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Honorinenn/Readme-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Honorinenn/Readme-Generator/issues"
+  },
+  "homepage": "https://github.com/Honorinenn/Readme-Generator#readme"
+}
