@@ -16,7 +16,7 @@ This is a readme generator application that uses node.js to create a README.md f
 To generate a readme for your own project, you can clone the repository to your local repository using git clone in the command line. To install the npm package dependencies as designated in the package.json you will need to run npm install.
 
 ## Usage
-To use this application you have to run the command node .\index.js at the terminal of your project and then respond to the prompt questions. The application would produce a markdown and a table of contents for the readme generated. This will be relative to the responses to the inquirer prompts. The link video and are as follows:
+To use this application you have to run the command node .\index.js at the terminal of your project and then respond to the prompt questions. The application would produce a markdown and a table of contents for the readme generated. This will be relative to the responses to the inquirer prompts. The link video and Gif demo are as follows:
 https://youtu.be/5IfLUV2xjKs
 
 
